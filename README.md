@@ -1,9 +1,9 @@
 # Hi, I'm Manuja Yomith 👋🏼  
 
-💻 Frontend Engineer | Exploring Backend & Mobile | Product Builder  
+💻 Full-stack Engineer | Exploring Backend & Mobile | Product Builder  
 
 - 🔭 Currently building projects with React, Next.js, and Tailwind  
-- 🌱 Learning Java backend & mobile app development  
+- 🌱 Learning Java, Spring Boot backend 
 - 🚀 Interested in SaaS, digital products, and problem-solving through tech  
 
 ---
